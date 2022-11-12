@@ -1,0 +1,15 @@
+:root {
+  --first-color: linear-gradient(152.07deg, #ff9c35 1.48%, #ffd019 97.18%);
+  --second-color: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+  --third-color: linear-gradient(170.41deg, #4289ff -10.88%, #3f07f8 92.77%);
+  --font-1: "Poppins", sans-serif;
+  --font-2: "Roboto", sans-serif;
+}
+.navbar {
+}
+.container-fluid {
+}
+.navbar-nav > li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
